@@ -1,0 +1,121 @@
+body {
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+
+}
+
+.head {
+    width: 100%;
+    height: 75px;
+
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+
+.head-link {
+    width: 100%;
+    height: 50px;
+    background: lavender;
+    margin-bottom: 5px;
+}
+
+.left {
+    width: 20%;
+    height: 650px;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.content {
+    width: 60.71%;
+    height: 650px;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.right {
+    width: 19%;
+    height: 650px;
+    float: left;
+    background: lavender;
+    margin-bottom: 5px;
+}
+
+.footer {
+    width: 100%;
+    height: 60px;
+    background: lavender;
+    clear: both;
+}
+
+.head-left {
+    width: 30%;
+    float: left;
+    height: 100%;
+    background: lavender;
+    margin-right: 5px;
+}
+
+.head-right {
+    width: 69.5%;
+    float: left;
+    height: 100%;
+    background: lavender;
+
+}
+
+.head-link-a {
+    text-decoration: none;
+}
+
+.head-link-input {
+    float: right;
+    border-radius: 5px;
+    padding-right: 30px;
+}
+
+.left-head {
+    width: 100%;
+    height: 45%;
+    background: lavender;
+    margin-bottom: 5px;
+}
+
+.left-footer {
+    width: 100%;
+    height: 54.3%;
+    background: lavender;
+
+}
+
+.content-top-left {
+    width: 49.5%;
+    height: 33%;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    background: lavender;
+    float: left;
+}
+
+.content-top-right {
+    width: 49.3%;
+    height: 33%;
+    margin-bottom: 5px;
+    background: lavender;
+    float: left;
+    margin-right: 5px;
+}
+.content-body{
+    width: 32.75%;
+    height: 32.7%;
+    background: lavender;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+
+}
